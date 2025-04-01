@@ -23,7 +23,9 @@ Certifique-se de ter o **Python** instalado em sua máquina. Para rodar um proje
    cd nome-da-pasta
 
 1. Execute o script Python correspondente:
-   Exemplo: python forca.py
+    - Exemplo:
+    ```sh
+    python forca.py
 
 ### 🛠 Tecnologias utilizadas
     - Python 3
