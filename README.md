@@ -19,7 +19,7 @@ Certifique-se de ter o **Python** instalado em sua máquina. Para rodar um proje
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/saiayla/Projetos.git
    cd nome-da-pasta
 
 1. Execute o script Python correspondente:
